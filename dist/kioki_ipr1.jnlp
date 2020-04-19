@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="kioki_ipr1.jnlp">
+  <information>
+    <title>kioki_ipr1</title>
+    <vendor>dzmitry</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="kioki_ipr1.jar" size="18816" download="eager" />
+  </resources>
+  <application-desc main-class="kioki_ipr1.Kioki_ipr1"  name="kioki_ipr1" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
